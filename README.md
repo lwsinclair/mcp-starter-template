@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/stevenstavrakis-mcp-starter-template-badge.jpg)](https://mseep.ai/app/stevenstavrakis-mcp-starter-template)
+
 # MCP Server Starter
 
 A production-ready starter template for building Model Context Protocol (MCP) servers with TypeScript.
